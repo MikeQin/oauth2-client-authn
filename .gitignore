@@ -1,5 +1,5 @@
 ### Custom ###
-application-cred.yml
+**/application-cred.yml
 
 HELP.md
 .gradle
