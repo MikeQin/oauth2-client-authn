@@ -33,3 +33,5 @@ out/
 
 ### Custom ###
 src/main/resources/application-cred.yml
+*.DS_Store
+bin/
