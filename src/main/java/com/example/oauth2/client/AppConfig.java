@@ -1,7 +1,6 @@
 package com.example.oauth2.client;
 
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.oauth2.client.CommonOAuth2Provider;
 import org.springframework.security.oauth2.client.registration.ClientRegistration;
 import org.springframework.security.oauth2.client.registration.ClientRegistrationRepository;
@@ -10,7 +9,7 @@ import org.springframework.security.oauth2.client.registration.InMemoryClientReg
 /**
  * Manual configuration
  */
-@Configuration
+//@Configuration
 @Slf4j
 public class AppConfig {
 
